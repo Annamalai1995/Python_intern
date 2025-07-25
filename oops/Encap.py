@@ -1,5 +1,5 @@
 class Deal:
-    __seller=""
+    __seller=""  #private variables
     __buyer=""
     __value=0
     def __init__(self,s="",b="",v=0):
